@@ -18,3 +18,17 @@ background-image: linear-gradient(160deg, #0093E9 0%, #ffffff 65%, #80D0C7 71%, 
     font-family: 'Merriweather', serif;
 
 }
+
+.feature{
+    color: #3d1010;
+}
+.feature ul {
+    padding-left:  2rem;
+        list-style-type: circle;
+
+}
+
+.feature ul li{
+padding-left: 2rem;
+
+}
