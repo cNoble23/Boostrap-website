@@ -56,3 +56,16 @@ section{
 .services{
     color: #350000;
 }
+.avo{
+    border-radius: 50%;
+}
+footer{
+    color: #ffffff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
